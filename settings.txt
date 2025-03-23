@@ -1,0 +1,4 @@
+api_key::AIzaSyAcXfKjFkZaN4p6Fc8iu5kKWBiaJBXUSzE
+cx::c21816f5610004210
+fs::44100
+clip_duration::2
